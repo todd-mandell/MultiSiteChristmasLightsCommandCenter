@@ -1,4 +1,4 @@
-﻿namespace MultiSiteCommandModule
+namespace MultiSiteCommandModule
 {
     partial class Form1
     {
